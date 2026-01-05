@@ -8,9 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusra-batool-578a8433a)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyusra05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ms-Xena)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yusra-Shah)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ms-Xena&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Yusra-Shah&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ##  About Me
 
-I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0) with a passion for **data analytics, machine learning, and building impactful software solutions**. I believe in learning through real-world projects and turning complex problems into elegant solutions.
+I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.7/4.0) with a passion for **data analytics, machine learning, and building impactful software solutions**. I believe in learning through real-world projects and turning complex problems into elegant solutions.
 
 -  **Harvard Aspire Leaders Program 2025** – Top 21% globally (9,362 of 45,228 applicants from 180+ countries)
 -  Currently mastering **Data Analytics** through IBM and Google Professional Certificates
@@ -36,7 +36,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 | Achievement | Details |
 |------------|---------|
 |  **Harvard Aspire Leaders Program 2025** | Selected among top 21% globally (9,362 finalists from 45,228 applicants across 180+ countries) |
-|  **Class High Achiever** | Maintaining good GPA with excellence in CS and Mathematics courses |
+|  **Class High Achiever** | Maintaining strong GPA with excellence in CS and Mathematics courses |
 |  **AI & CS Expo 2024** | Showcased educational AI project to 200+ attendees |
 |  **CS & AI Society Member** | Active contributor to research discussions and tech innovation initiatives |
 |  **McKinsey & Company Forward Program** | Completed professional development certification |
@@ -76,8 +76,8 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<!--
 ### Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -97,7 +97,6 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
--->
 
 ### Concepts & Domain Knowledge
 - **Core CS**: OOP, Data Structures, Algorithms, Software Engineering, Computer Networks
@@ -118,7 +117,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Implemented secure data architecture with comprehensive error handling
 - **Impact**: Streamlined course management for students and faculty
 
-[ View Project](#) | [📄 Documentation](#)
+[🔗 View Project](#) | [📄 Documentation](#)
 
 ---
 
@@ -130,10 +129,10 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Designed adaptive difficulty system based on user performance
 - **Impact**: Made language learning interactive and measurable
 
-[ View Project](#) | [📄 Documentation](#)
+[🔗 View Project](#) | [📄 Documentation](#)
 
 ---
-<!--
+
 ###  Data Analytics Research Projects | *Aug 2024 - Present*
 **Tech Stack**: Python (Pandas, NumPy) • R • SQL • Tableau
 
@@ -142,10 +141,10 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Applied statistical methods for hypothesis testing and correlation analysis
 - **Impact**: Provided actionable insights for educational program improvements
 
-[ View Notebooks](#) | [📊 Tableau Dashboards](#)
+[ View Notebooks](#) | [ Tableau Dashboards](#)
 
 ---
--->
+
 ###  Deloitte Data Analytics Job Simulation | *Summer 2025*
 **Tech Stack**: Excel • Tableau • Data Visualization
 
@@ -173,16 +172,16 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 **Current Semester (Spring 2025)**: Computer Organization, Theory of Automata, Advanced DBMS, Artificial Intelligence, Information Security, Probability & Statistics
 
 ---
-<!--
+
 ##  GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-Xena&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusra-Shah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ms-Xena&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Shah&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Xena&theme=radical&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Shah&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -192,7 +191,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ms-Xena&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yusra-Shah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
@@ -200,4 +199,77 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ##  Current Learning Journey
 ```mermaid
+graph LR
+    A[Completed] --> B[Python Basics]
+    A --> C[Data Analytics Certs]
+    A --> D[Java/SQL Mastery]
+    
+    E[In Progress] --> F[Machine Learning]
+    E --> G[Linear Algebra]
+    E --> H[Statistics & Probability]
+    
+    I[Next Steps] --> J[Deep Learning]
+    I --> K[Kaggle Projects]
+    I --> L[Open Source Contributions]
+```
+
+---
+
+##  What I'm Currently Working On
+
+-  Mastering **Python** for data science (completing BroCode course)
+-  Learning **Linear Algebra** and **Statistics** for ML foundations
+-  Building real-world **data analytics projects** on Kaggle
+-  Preparing for **Machine Learning** projects (Q2 2025)
+-  Contributing to **open-source** data science projects
+
+---
+<!--
+##  2026 Goals
+
+- [ ] Complete 3-5 high-quality **data analytics projects** on Kaggle
+- [ ] Master **Machine Learning** fundamentals and build ML portfolio
+- [ ] Contribute to **open-source** data science projects
+- [ ] Land a **remote data analyst internship**
+- [ ] Participate in **Kaggle competitions** and earn medals
+- [ ] Build **end-to-end ML projects** with deployment
+
+---
 -->
+##  Let's Connect!
+
+I'm always open to collaborating on data analytics and ML projects, discussing tech, or just connecting with fellow learners!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusra-batool-578a8433a)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyusra05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yusra-Shah)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+###  *"The best way to predict the future is to create it."* – Peter Drucker
+
+---
+
+** Fun Facts About Me**
+-  From Sukkur, Pakistan 🇵🇰
+-  Avid learner with 10+ professional certifications
+-  Passionate about using data to solve real-world problems
+-  Love collaborating on Agile projects
+-  Believe in learning by doing, not just watching tutorials
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Yusra-Shah&icon=2&color=6)
+
+**Thanks for visiting! Feel free to explore my projects and reach out for collaborations.** 🚀
+
+</div>
+
+<!-- Crafted with 💜 by Yusra Batool | Last Updated: January 2026 -->
