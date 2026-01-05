@@ -76,8 +76,8 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+<!--
 ### Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -97,6 +97,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+-->
 
 ### Concepts & Domain Knowledge
 - **Core CS**: OOP, Data Structures, Algorithms, Software Engineering, Computer Networks
@@ -132,7 +133,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 [ View Project](#) | [📄 Documentation](#)
 
 ---
-
+<!--
 ###  Data Analytics Research Projects | *Aug 2024 - Present*
 **Tech Stack**: Python (Pandas, NumPy) • R • SQL • Tableau
 
@@ -144,7 +145,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 [ View Notebooks](#) | [📊 Tableau Dashboards](#)
 
 ---
-
+-->
 ###  Deloitte Data Analytics Job Simulation | *Summer 2025*
 **Tech Stack**: Excel • Tableau • Data Visualization
 
@@ -172,7 +173,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 **Current Semester (Spring 2025)**: Computer Organization, Theory of Automata, Advanced DBMS, Artificial Intelligence, Information Security, Probability & Statistics
 
 ---
-
+<!--
 ##  GitHub Statistics
 
 <div align="center">
@@ -199,3 +200,4 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ##  Current Learning Journey
 ```mermaid
+-->
