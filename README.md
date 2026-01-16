@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yusra Batool
+# Hi, I'm Yusra Batool
 
 ### Computer Science Student | Data Analytics Enthusiast | Aspiring ML Engineer
 
@@ -107,6 +107,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.7/4.0)
 
 ---
 
+<!--
 ##  Featured Projects
 
 ###  Learning Management System (LMS) | *Spring 2025*
@@ -156,13 +157,14 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.7/4.0)
 [ View Simulation](#)
 
 ---
-
+--->
 ##  Education
 
 **Bachelor of Science in Computer Science**  
 *Sukkur IBA University, Pakistan* | Expected Graduation: June 2028  
 **GPA**: 3.7 / 4.0
 
+<!--
 **Relevant Coursework**:
 - **Core CS**: Object-Oriented Programming, Data Structures, Algorithms, Software Engineering
 - **Systems**: Computer Networks, Digital Logic Design, Database Systems
@@ -224,7 +226,7 @@ graph LR
 -  Contributing to **open-source** data science projects
 
 ---
-<!--
+
 ##  2026 Goals
 
 - [ ] Complete 3-5 high-quality **data analytics projects** on Kaggle
@@ -235,7 +237,7 @@ graph LR
 - [ ] Build **end-to-end ML projects** with deployment
 
 ---
--->
+--->
 ##  Let's Connect!
 
 I'm always open to collaborating on data analytics and ML projects, discussing tech, or just connecting with fellow learners!
@@ -266,10 +268,11 @@ I'm always open to collaborating on data analytics and ML projects, discussing t
 
 ---
 
+<!--
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Yusra-Shah&icon=2&color=6)
 
 **Thanks for visiting! Feel free to explore my projects and reach out for collaborations.** 🚀
-
+--->
 </div>
 
 <!-- Crafted with 💜 by Yusra Batool | Last Updated: January 2026 -->
