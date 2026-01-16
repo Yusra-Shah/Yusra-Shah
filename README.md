@@ -1,253 +1,121 @@
 <div align="center">
 
-# Hi, I'm Yusra Batool
+# Hi, I'm Yusra Batool 
 
-### Computer Science Student | Data Analytics Enthusiast | Aspiring ML Engineer
+### Computer Science Student | Data Analytics Enthusiast | Building at the Intersection of Data & AI
 
-*Transforming data into insights • Building with purpose • Learning by doing*
+*Turning complex data into clear insights • Driven by curiosity • Learning through action*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusra-batool-578a8433a)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyusra05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyusra05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yusra-Shah)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yusra-Shah&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Yusra-Shah&color=6366f1&style=flat-square)
 
 </div>
 
 ---
 
-##  About Me
+## 💼 About Me
 
-I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.7/4.0) with a passion for **data analytics, machine learning, and building impactful software solutions**. I believe in learning through real-world projects and turning complex problems into elegant solutions.
+I'm a **Computer Science undergraduate at Sukkur IBA University** with a strong foundation in software development, data analytics, and problem-solving. My work focuses on transforming raw data into meaningful insights and building scalable, real-world solutions.
 
--  **Harvard Aspire Leaders Program 2025** – Top 21% globally (9,362 of 45,228 applicants from 180+ countries)
--  Currently mastering **Data Analytics** through IBM and Google Professional Certificates
--  Building scalable applications with **Java, Python, SQL** and exploring **Machine Learning**
--  Deepening my knowledge in **Linear Algebra, Statistics, and AI**
--  **Goal**: Land a remote data analyst/ML role by 2026 and contribute to open-source projects
--  **Current Focus**: Completing data analytics projects on Kaggle and building my ML portfolio
+- 🎓 **Harvard Aspire Leaders Program 2025** – Selected among **top 21% globally** (9,362 finalists from 45,228 applicants across 180+ countries)
+- 📊 **Data Analytics Professional** – IBM & Google certified with hands-on experience in Python, SQL, and Tableau
+- 💻 Building with **Java, Python, R, SQL** – From backend systems to data pipelines
+- 🧠 Deep interest in **Machine Learning, Statistical Modeling, and AI Ethics**
+- 🌍 Actively seeking **remote opportunities** in data analytics and software engineering
 
 ---
 
-##  Achievements & Recognition
+## 🏆 Recognition & Leadership
 
 <div align="center">
 
-| Achievement | Details |
-|------------|---------|
-|  **Harvard Aspire Leaders Program 2025** | Selected among top 21% globally (9,362 finalists from 45,228 applicants across 180+ countries) |
-|  **Class High Achiever** | Maintaining strong GPA with excellence in CS and Mathematics courses |
-|  **AI & CS Expo 2024** | Showcased educational AI project to 200+ attendees |
-|  **CS & AI Society Member** | Active contributor to research discussions and tech innovation initiatives |
-|  **McKinsey & Company Forward Program** | Completed professional development certification |
+| **Achievement** | **Impact** |
+|-----------------|-----------|
+| 🌍 **Harvard Aspire Leaders Program 2025** | Top 21% globally • 9,362 of 45,228 applicants from 180+ countries |
+| 📈 **Academic Excellence** | 3.7/4.0 GPA • Strong performance in CS, Mathematics, and AI |
+| 🎤 **AI & CS Expo 2024** | Presented educational AI project to 200+ attendees |
+| 👥 **CS & AI Society Member** | Active in research discussions and technical innovation |
+| 📜 **McKinsey Forward Program** | Completed professional development certification |
 
 </div>
 
 ---
 
-##  Professional Certifications
+## 🎓 Professional Certifications
 
 <div align="center">
 
-### Data Analytics & Cloud
+### Data Analytics & Cloud Computing
 [![IBM](https://img.shields.io/badge/IBM-Data_Analytics_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/)
 [![Google](https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/go/UW3hRr8m)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Analytics_Badges-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Multi_Badge_Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-Aurora_SQL_Training-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
-### Programming & Development
-[![HackerRank Java](https://img.shields.io/badge/HackerRank-Java_(Basic)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)]()
-[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL_(Basic_&_Intermediate)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)]()
-[![Sololearn](https://img.shields.io/badge/Sololearn-Java_Certificate-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)]()
+### Technical Assessment & Development
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java_&_SQL_Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)]()
+[![Sololearn](https://img.shields.io/badge/Sololearn-Java_Certified-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)]()
 
-### Leadership & Business
-[![McKinsey](https://img.shields.io/badge/McKinsey_&_Company-Forward_Program-0066CC?style=for-the-badge)]()
+### Business & Strategy
+[![McKinsey](https://img.shields.io/badge/McKinsey-Forward_Program-0066CC?style=for-the-badge)]()
 [![Deloitte](https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-86BC25?style=for-the-badge)]()
 
 </div>
 
 ---
 
-##  Technical Skills
+## 💻 Technical Expertise
 
-### Languages
+### Core Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Data Analytics & Visualization
+### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Databases & Cloud
+### Infrastructure & Development
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Development Tools & Methodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Concepts & Domain Knowledge
-- **Core CS**: OOP, Data Structures, Algorithms, Software Engineering, Computer Networks
-- **Data Science**: Statistical Analysis, Data Visualization, Exploratory Data Analysis (EDA)
-- **AI & ML**: Machine Learning Fundamentals, Generative AI, AI Ethics
-- **Mathematics**: Linear Algebra, Calculus, Statistics, Probability
-- **Development**: REST APIs, CRUD Operations, Database Design, System Architecture
+### Domain Knowledge
+- **Computer Science**: Object-Oriented Programming • Data Structures & Algorithms • Software Engineering • Database Design
+- **Data Analytics**: Statistical Analysis • Exploratory Data Analysis • Data Visualization • Hypothesis Testing
+- **Mathematics**: Linear Algebra • Calculus • Probability & Statistics • Discrete Mathematics
+- **Development Practices**: Agile Methodologies • REST APIs • CRUD Operations • Version Control • System Architecture
 
 ---
 
-<!--
-##  Featured Projects
-
-###  Learning Management System (LMS) | *Spring 2025*
-**Tech Stack**: Java (Swing, JDBC) • SQL • MVC Architecture
-
-- Built a scalable educational platform serving **100+ users** with role-based access control
-- Reduced administrative workflow time by **40%** through automated CRUD operations
-- Implemented secure data architecture with comprehensive error handling
-- **Impact**: Streamlined course management for students and faculty
-
-[🔗 View Project](#) | [📄 Documentation](#)
-
----
-
-###  Vocabulary Builder Game | *Fall 2024*
-**Tech Stack**: Java • Agile Methodology • Game Design
-
-- Led **5-person team** to develop gamified learning app using Agile sprints
-- Achieved **85% user engagement rate** and **30% vocabulary retention improvement** in pilot study
-- Designed adaptive difficulty system based on user performance
-- **Impact**: Made language learning interactive and measurable
-
-[🔗 View Project](#) | [📄 Documentation](#)
-
----
-
-###  Data Analytics Research Projects | *Aug 2024 - Present*
-**Tech Stack**: Python (Pandas, NumPy) • R • SQL • Tableau
-
-- Analyzed education datasets with **1000+ records** to identify learning patterns and trends
-- Created **12+ interactive dashboards** for stakeholder decision-making
-- Applied statistical methods for hypothesis testing and correlation analysis
-- **Impact**: Provided actionable insights for educational program improvements
-
-[ View Notebooks](#) | [ Tableau Dashboards](#)
-
----
-
-###  Deloitte Data Analytics Job Simulation | *Summer 2025*
-**Tech Stack**: Excel • Tableau • Data Visualization
-
-- Completed comprehensive job simulation focusing on forensic technology and data analysis
-- Designed professional dashboards to visualize complex business datasets
-- Applied Excel analytics to classify data, identify trends, and derive business conclusions
-- **Impact**: Demonstrated real-world data analysis capabilities for consulting scenarios
-
-[ View Simulation](#)
-
----
---->
-##  Education
+## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-*Sukkur IBA University, Pakistan* | Expected Graduation: June 2028  
-**GPA**: 3.7 / 4.0
-
-<!--
-**Relevant Coursework**:
-- **Core CS**: Object-Oriented Programming, Data Structures, Algorithms, Software Engineering
-- **Systems**: Computer Networks, Digital Logic Design, Database Systems
-- **Mathematics**: Linear Algebra, Calculus, Discrete Structures, Statistics & Probability
-- **AI & Data**: Artificial Intelligence, Data Analytics, Machine Learning (upcoming)
-
-**Current Semester (Spring 2025)**: Computer Organization, Theory of Automata, Advanced DBMS, Artificial Intelligence, Information Security, Probability & Statistics
+*Sukkur IBA University, Pakistan* • Expected June 2028  
+**GPA**: 3.7/4.0
 
 ---
 
-##  GitHub Statistics
+## 🌐 Let's Connect
+
+I'm always interested in collaborating on data projects, discussing emerging tech, or connecting with like-minded professionals.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusra-Shah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Shah&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Shah&theme=radical&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-##  GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yusra-Shah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-##  Current Learning Journey
-```mermaid
-graph LR
-    A[Completed] --> B[Python Basics]
-    A --> C[Data Analytics Certs]
-    A --> D[Java/SQL Mastery]
-    
-    E[In Progress] --> F[Machine Learning]
-    E --> G[Linear Algebra]
-    E --> H[Statistics & Probability]
-    
-    I[Next Steps] --> J[Deep Learning]
-    I --> K[Kaggle Projects]
-    I --> L[Open Source Contributions]
-```
-
----
-
-##  What I'm Currently Working On
-
--  Mastering **Python** for data science (completing BroCode course)
--  Learning **Linear Algebra** and **Statistics** for ML foundations
--  Building real-world **data analytics projects** on Kaggle
--  Preparing for **Machine Learning** projects (Q2 2025)
--  Contributing to **open-source** data science projects
-
----
-
-##  2026 Goals
-
-- [ ] Complete 3-5 high-quality **data analytics projects** on Kaggle
-- [ ] Master **Machine Learning** fundamentals and build ML portfolio
-- [ ] Contribute to **open-source** data science projects
-- [ ] Land a **remote data analyst internship**
-- [ ] Participate in **Kaggle competitions** and earn medals
-- [ ] Build **end-to-end ML projects** with deployment
-
----
---->
-##  Let's Connect!
-
-I'm always open to collaborating on data analytics and ML projects, discussing tech, or just connecting with fellow learners!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusra-batool-578a8433a)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyusra05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yusra-Shah)
-[![Kaggle](https://img.shields.io/badge/Kaggle-View_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusra-batool-578a8433a)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyusra05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yusra-Shah)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](#)
 
 </div>
 
@@ -255,24 +123,10 @@ I'm always open to collaborating on data analytics and ML projects, discussing t
 
 <div align="center">
 
-###  *"The best way to predict the future is to create it."* – Peter Drucker
+**Open to:** Remote Internships • Data Analytics Roles • Collaborative Projects • Research Opportunities
 
----
+*"Combining technical rigor with creative problem-solving to build solutions that matter."*
 
-** Fun Facts About Me**
--  From Sukkur, Pakistan 🇵🇰
--  Avid learner with 10+ professional certifications
--  Passionate about using data to solve real-world problems
--  Love collaborating on Agile projects
--  Believe in learning by doing, not just watching tutorials
-
----
-
-<!--
-![Visitor Count](https://visitcount.itsvg.in/api?id=Yusra-Shah&icon=2&color=6)
-
-**Thanks for visiting! Feel free to explore my projects and reach out for collaborations.** 🚀
---->
 </div>
 
-<!-- Crafted with 💜 by Yusra Batool | Last Updated: January 2026 -->
+<!-- Last Updated: November 2025 -->
